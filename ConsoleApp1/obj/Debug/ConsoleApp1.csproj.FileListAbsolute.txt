@@ -1,0 +1,14 @@
+C:\Users\logonrm\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\logonrm\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\logonrm\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\logonrm\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\logonrm\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\logonrm\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\logonrm\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\logonrm\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\logonrm\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\logonrm\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\logonrm\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\logonrm\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\logonrm\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\logonrm\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
